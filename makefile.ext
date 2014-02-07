@@ -1,0 +1,2 @@
+DIST-CLEAN_FILES += mageco-2013-10-11.pdf
+all: mageco-2013-10-11.pdf
